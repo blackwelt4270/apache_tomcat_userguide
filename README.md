@@ -17,6 +17,16 @@ AMD Auto-select Program stand last(need net connection)
 Settings > Power Plan > Ultimate<br>
 Settings > Power Plan > Screen and sleep > all check "Never"
 
+### Config of 5800X3D (MSI Motherboard)
+
+1.Advanced > Settings > Advanced > PCIe/PCI Subsystem Settings > Re-Size BAR Support -> "enabled" (need mass GPU mem)
+
+2.Advanced > Settings > Security > Trusted Computing > AMD fTPM switch -> "disabled"
+
+3.OC > OC Explore Mode->[Expert] > Advanced CPU Configuration > Kombo Strike->[3] > AMD CBS > Global C-state Control->[disabled] (CPPC and CPPC Preferred Cores can disable for stability,enable for high r23 points)
+
+4.OC > CPU Offset Voltage(-)->[0.0625V]
+
 ### Set "This PC" as start page
 
 File Explorer > ··· > Options > Opens File Explorer To > check "This PC"<br>
