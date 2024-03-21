@@ -1,12 +1,16 @@
 # AMD Desktop Config
 
-## Jump Start Network Connections < if haven't Enter Without Net Option >
+## Jump Install Network Connections Guide < if haven't "Enter Without Net" Option >
 
 when on network selection page > Shift+F10 > input "oobe\BypassNRO.cmd" > Windows will auto restart > "I haven't Internet Connections" > "Continue With Restricted Settings" > u can create local account now
 
 ## Basic Settings
 
 ### Necessary Drivers
+
+AMD Auto-select Program stand last(need net connection)
+
+### Windows update
 
 ### Power Plan
 
@@ -24,17 +28,19 @@ Sort > Date Modified
 
 ### Download Necessary Applications
 
-#### Github Page Download
+#### Page Download
 
 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)<br>
+[Google Chrome](https://www.google.com/chrome/)<br>
 Optimizer<br>
-Windows11 轻松设置<br>
+Win11EZToUse<br>
 Dim2Clear<br>
 Windows Cursor Enhancement<br>
 [图吧工具箱](https://www.tbtool.cn/)<br>
 
-#### Google 2 download
+#### 2 download
 
+[7-zip](https://www.7-zip.org/download.html)<br>
 [MSIAfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards)<br>
 [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)<br>
 [Voicemeeter](https://voicemeeter.com/)<br>
@@ -51,7 +57,11 @@ Windows Cursor Enhancement<br>
 [Epic](https://store.epicgames.com/en-US/download)<br>
 [Telegram Desktop](https://telegram.org/)<br>
 [Video Converter](https://handbrake.fr/downloads.php)<br>
-Aim Lab<br>
+[ImageGlass](https://github.com/d2phap/ImageGlass)<br>
+[Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
+[Spotify](https://www.spotify.com/us/download/other/)<br>
+[TinyPlayer](https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ提取码：zmqz)<br>
+Aim Lab
 
 ### Block Windows Update
 
@@ -72,7 +82,7 @@ Settings > Storage > open "Storage Sense"
 
 ### Keyboard Input
 
-Settings > Time And Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Switch keyboard layout > check "Undistributed"
+Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Change Key Sequence > "Switch Input Language"->"Left Alt+Shift" and "Switch Keyboard Layout"->"Not Assigned"
 
 ### Windows Cursor Replace
 
@@ -85,6 +95,6 @@ Settings > Time And Language > Typing > Advanced Keyboard Settings > Input Langu
 ### Close Heterogeneous Thread Scheduling
 
 1.CMD execute "powercfg -attributes SUB_PROCESSOR 93b8b6dc-0698-4d1c-9ee4-0644e900c85d -ATTRIB_HIDE" and "powercfg -attributes SUB_PROCESSOR bae08b81-2d5e-4688-ad6a-13243356654b -ATTRIB_HIDE"<br>
-2.Win+R > Control > Power Options > Edit Plan Settings > Change Advanced Power Settings > Processor Power Options > change "Heterogeneous Thread Scheduling Policy" and "Heterogeneous Short-run Thread Scheduling Policy" to "All Processor"
+2.Win+R > Control > Power Options > Change Plan Settings > Change Advanced Power Settings > Processor Power Management > change "Heterogeneous Thread Scheduling Policy" and "Heterogeneous Short running Thread Scheduling Policy" to "All Processor"
 
 ## Change-Anytime Config After Status
