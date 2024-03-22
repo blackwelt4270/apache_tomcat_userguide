@@ -108,3 +108,25 @@ Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language 
 2.Win+R > Control > Power Options > Change Plan Settings > Change Advanced Power Settings > Processor Power Management > change "Heterogeneous Thread Scheduling Policy" and "Heterogeneous Short running Thread Scheduling Policy" to "All Processor"
 
 ## Change-Anytime Config After Status
+
+### Memory OC <Ref. value>
+
+| Clock                | Voltage | TRC | TRFC |
+| -------------------- | ------- | --- | ---- |
+| 3200(13-18-18-18-36) | 1.45V   | 70  | 500  |
+| 3400(13-18-18-18-36) | 1.45V   | 75  | 540  |
+| 3600(14-19-19-19-38) | 1.45V   | 80  | 560  |
+| 3800(15-20-20-20-40) | 1.45V   | 80  | 580  |
+| 4000(16-21-21-21-42) | 1.45V   | 90  | 600  |
+
+Trc 90
+TrrdS 4
+TrrdL 6
+Tfaw 16
+Twtrs 4
+TwtrL 8
+Twr 16
+Trdrdscl 4
+Twrwrscl 4
+TRFC 600
+Trtp 8
