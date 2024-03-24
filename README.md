@@ -71,6 +71,8 @@ Windows Cursor Enhancement<br>
 [Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
 [Spotify](https://www.spotify.com/us/download/other/)<br>
 [TinyPlayer](https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ提取码：zmqz)<br>
+[LockHunter](https://lockhunter.com/download.htm)<br>
+[File Shredder](https://www.fileshredder.org/)<br>
 Aim Lab
 
 ### Block Windows Update
