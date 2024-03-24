@@ -70,7 +70,7 @@ Windows Cursor Enhancement<br>
 [ImageGlass](https://github.com/d2phap/ImageGlass)<br>
 [Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
 [Spotify](https://www.spotify.com/us/download/other/)<br>
-TinyPlayer https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ 提取码：zmqz (Copy full text)<br>
+TinyPlayer https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ 提取码：zmqz (:warning:the space key also need copied)<br>
 [LockHunter](https://lockhunter.com/download.htm)<br>
 [File Shredder](https://www.fileshredder.org/)<br>
 Aim Lab
