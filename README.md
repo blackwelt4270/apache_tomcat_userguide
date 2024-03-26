@@ -75,7 +75,7 @@ TinyPlayer https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ 提取码:` zmqz` ( :
 [File Shredder](https://www.fileshredder.org/)<br>
 [Bandizip](https://en.bandisoft.com/bandizip/)<br>
 Start11<br>
-GlassWire
+GlassWire<br>
 Aim Lab
 
 ### Block Windows Update
@@ -146,14 +146,14 @@ Trtp 8
 
 ### Customize Logitech G Hub install location
 
-1.if we want install the hub in `D:\Program file`.We create a directory named `D:\Program file\LGHUB`under repository D.
-2.open powershell in administrator mode.
-3.goto root folder where logitech want to install:`cd 'C:\Program File`
+1.if we want install the hub in `D:\Program file`.We create a directory named `D:\Program file\LGHUB`under repository D.<br>
+2.open powershell in administrator mode.<br>
+3.goto root folder where logitech want to install:`cd 'C:\Program File`<br>
 4.create symlink
 
 ```
 New-Item -ItemType SymbolicLink -Path 'C:\Program Files\LGHUB\' - Value 'D: \Program Files\LGHUB\'
 ```
 
-5.now run the .exe
-6.confirm the app installed there in rep C
+5.now run the .exe<br>
+6.confirm the app installed there in rep C<br>
