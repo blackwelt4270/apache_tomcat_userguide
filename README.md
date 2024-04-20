@@ -76,7 +76,11 @@ TinyPlayer https://pan.baidu.com/s/1E8x--1LtTPJyo4cy8tkSDQ 提取码:` zmqz` ( :
 [Bandizip](https://en.bandisoft.com/bandizip/)<br>
 Start11<br>
 GlassWire<br>
-Aim Lab
+KBLAutoSwitch
+playnite
+Bulk Crap Uninstaller
+SmoothScroll Chrome Extension
+Advanced Font Settings Chrome Extensionq
 
 ### Block Windows Update
 
