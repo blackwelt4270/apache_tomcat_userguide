@@ -107,9 +107,7 @@ Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language 
 
 ### Fix Chrome Display Bugs
 
-1.url open "chrome://flags/#use-angle" > change box to "D3D11on12"<br>
-2.url open "chrome://flags/#use-angle" > change box to "OpenGL"<br>
-3.url open "chrome://flags/#use-angle" > change box to "D3D9"<br>
+1.url open "chrome://flags/#use-angle" > change box to "D3D11on12","OpenGL" or "D3D9"<br>
 
 ### Close Heterogeneous Thread Scheduling
 
