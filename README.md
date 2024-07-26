@@ -46,6 +46,7 @@ Optimizer<br>
 Win11EZToUse<br>
 Dim2Clear<br>
 Windows Cursor Enhancement<br>
+EhPG 小說下載器<br>
 [图吧工具箱](https://www.tbtool.cn/)<br>
 
 #### 2 download
