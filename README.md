@@ -17,7 +17,7 @@ AMD Auto-select Program stand last(need net connection)
 Settings > Power Plan > Ultimate<br>
 Settings > Power Plan > Screen and sleep > all check "Never"
 
-### Config of 5800X3D (MSI Motherboard)
+### Config (MSI Motherboard)
 
 1.Advanced > Settings > Advanced > PCIe/PCI Subsystem Settings > Re-Size BAR Support -> "enabled" (need mass GPU mem)
 
@@ -138,7 +138,7 @@ Twrwrscl 4
 TRFC 600
 Trtp 8
 
-### 5800X3D r23 Ref.
+### r23 Ref.
 
 | Single | 1465 |
 | ------ | ---- |
