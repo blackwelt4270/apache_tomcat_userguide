@@ -42,7 +42,7 @@ Sort > Date Modified
 
 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)<br>
 [Google Chrome](https://www.google.com/chrome/)<br>
-Optimizer<br>
+[Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
 Dim2Clear<br>
 Windows Cursor Enhancement<br>
