@@ -159,5 +159,3 @@ New-Item -ItemType SymbolicLink -Path 'C:\Program Files\LGHUB\' - Value 'D: \Pro
 
 5.now run the .exe<br>
 6.confirm the app installed there in rep C<br>
-
-test
