@@ -68,7 +68,7 @@ EhPG 小說下載器<br>
 [Epic](https://store.epicgames.com/en-US/download)<br>
 [Telegram Desktop](https://telegram.org/)<br>
 [Video Converter](https://handbrake.fr/downloads.php)<br>
-[ImageGlass](https://github.com/d2phap/ImageGlass)<br>
+[nomacs](https://github.com/nomacs/nomacs)<br>
 [Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
 [Spotify](https://www.spotify.com/us/download/other/)<br>
 [LockHunter](https://lockhunter.com/download.htm)<br>
