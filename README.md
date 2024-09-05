@@ -23,7 +23,7 @@ Settings > Power Plan > Screen and sleep > all check "Never"
 
 2.Advanced > Settings > Security > Trusted Computing > AMD fTPM switch -> "disabled"
 
-3.OC > OC Explore Mode->[Expert] > Advanced CPU Configuration > Kombo Strike->[3] > AMD CBS > Global C-state Control->[disabled] (CPPC and CPPC Preferred Cores can disable for stability,enable for high r23 points)
+3.OC > OC Explore Mode->[Expert] > Advanced CPU Configuration > Kombo Strike->[3] > AMD CBS > Global C-state Control->[disabled] (CPPC and CPPC Preferred Cores can disable for stability,enable for high r23 points)(cppc1-enable;cppc2-disable)
 
 4.OC > CPU Offset Voltage(-)->[0.0625V]
 
@@ -75,12 +75,10 @@ EhPG 小說下載器<br>
 [File Shredder](https://www.fileshredder.org/)<br>
 [Bandizip](https://en.bandisoft.com/bandizip/)<br>
 Start11<br>
-GlassWire<br>
 playnite<br>
-Bulk Crap Uninstaller<br>
-SmoothScroll Chrome Extension<br>
-Advanced Font Settings Chrome<br>
+Revo Uninstaller<br>
 Extensionq<br>
+quicklook<br>
 
 ### Block Windows Update
 
