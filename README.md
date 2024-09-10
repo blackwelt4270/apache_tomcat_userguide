@@ -79,6 +79,7 @@ playnite<br>
 Revo Uninstaller<br>
 Extensionq<br>
 quicklook<br>
+[FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
 
 ### Block Windows Update
 
@@ -102,10 +103,6 @@ Settings > Storage > open "Storage Sense"
 Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Change Key Sequence > "Switch Input Language"->"Left Alt+Shift" and "Switch Keyboard Layout"->"Not Assigned"
 
 ### Windows Cursor Replace
-
-### Fix Chrome Display Bugs
-
-1.url open "chrome://flags/#use-angle" > change box to "D3D11on12","OpenGL" or "D3D9"<br>
 
 ### Close Heterogeneous Thread Scheduling
 
