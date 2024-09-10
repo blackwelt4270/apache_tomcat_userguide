@@ -75,11 +75,12 @@ EhPG 小說下載器<br>
 [File Shredder](https://www.fileshredder.org/)<br>
 [Bandizip](https://en.bandisoft.com/bandizip/)<br>
 Start11<br>
-playnite<br>
+[playnite](https://github.com/JosefNemec/Playnite)<br>
 Revo Uninstaller<br>
-Extensionq<br>
-quicklook<br>
+[quicklook](https://github.com/QL-Win/QuickLook)<br>
 [FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
+[AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
+[HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)<br>
 
 ### Block Windows Update
 
