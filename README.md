@@ -87,6 +87,10 @@ Revo Uninstaller<br>
 Win+R > regedit > cd "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings" > Right click > New > DWORD(32) > rename as "FlightSettingsMaxPauseDays" > open > Decimal-5000
 open "Windows Update" > select pause date
 
+### Block Drivers Update
+
+Settings > System > About > Advanced system settings >
+
 ### Privacy And Security Settings > OFF
 
 ### Notification > OFF

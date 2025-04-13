@@ -1,5 +1,5 @@
 Immersive Translate
-App Cleaner
+AppCleaner
 The Unachiever
 Clash Verge
 IINA
@@ -62,3 +62,29 @@ PiPifier
 Stacc
 LyricsX
 pixelmator Pro
+010 Editor
+Amazon Q
+BetterTouchTool
+Chromium
+Cleaner One
+iTerm
+knockknock
+Little Snitch
+LocalSend
+Microsoft 365
+Minecraft
+Noir
+Permute 3
+Readest
+Sip
+Slidepad
+Tampermonkey
+TencentMeeting
+Tor browser
+Typora
+Volanta
+zoom.us
+夸克網盤
+小黑盒
+閒魚
+checksum
